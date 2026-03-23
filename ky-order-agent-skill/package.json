@@ -1,0 +1,19 @@
+{
+  "name": "ky-order-agent",
+  "version": "1.0.0",
+  "description": "订单数据分析 Agent - MCP 工具版",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "mongoose": "^5.13.0",
+    "dotenv": "^10.0.0"
+  },
+  "mcp": {
+    "command": "node",
+    "args": [
+      "src/mcp.js"
+    ]
+  }
+}
