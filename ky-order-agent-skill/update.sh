@@ -8,7 +8,7 @@ echo "  📊 订单分析 Skill 更新工具"
 echo "========================================"
 echo ""
 
-SKILL_DIR="/Applications/QClaw.app/Contents/Resources/openclaw/config/skills/ky-order-analytics"
+SKILL_DIR="/Applications/QClaw.app/Contents/Resources/openclaw/config/skills/ky-order-agent-skill"
 WORKSPACE_DIR="$HOME/.qclaw/workspace/ky-order-agent-skill"
 
 # 检查 QClaw 是否在运行

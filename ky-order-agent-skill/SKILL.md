@@ -1,5 +1,5 @@
 ---
-name: ky-order-analytics
+name: ky-order-agent-skill
 description: |
   订单数据分析 skill。基于 MongoDB ky-order 库的 Order 表，提供销售统计、业务分析、环比对比等功能。
   当用户询问订单、销售、收入、营收、业绩等相关问题时触发。
