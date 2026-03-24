@@ -1,5 +1,5 @@
 {
-  "name": "ky-order-agent",
+  "name": "ky-data-skill",
   "version": "1.0.0",
   "description": "订单数据分析 Agent - MCP 工具版",
   "main": "src/index.js",
