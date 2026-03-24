@@ -8,8 +8,8 @@ echo "  📊 订单分析 Skill 更新工具"
 echo "========================================"
 echo ""
 
-SKILL_DIR="/Applications/QClaw.app/Contents/Resources/openclaw/config/skills/ky-order-agent-skill"
-WORKSPACE_DIR="$HOME/.qclaw/workspace/ky-order-agent-skill"
+SKILL_DIR="/Applications/QClaw.app/Contents/Resources/openclaw/config/skills/ky-data-skill"
+WORKSPACE_DIR="$HOME/.qclaw/workspace/ky-data-skill"
 
 # 检查 QClaw 是否在运行
 echo "📌 检查 QClaw 状态..."

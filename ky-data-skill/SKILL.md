@@ -71,7 +71,7 @@ status: [1, 3, 4]       // 已支付、部分退款、全部退款
 
 ```bash
 # 切换到 skill 目录
-cd ~/.qclaw/workspace/ky-order-agent-skill
+cd ~/.qclaw/workspace/ky-data-skill
 
 # 运行分析
 node src/query.js "总销售额"
@@ -96,7 +96,7 @@ node src/query.js "月度趋势"
 ## 目录结构
 
 ```
-ky-order-agent-skill/
+ky-data-skill/
 ├── SKILL.md              # 本文件
 ├── src/
 │   ├── config.js         # 业务映射配置

@@ -8,9 +8,9 @@ echo "  📊 订单分析 Skill 更新工具"
 echo "========================================"
 echo ""
 
-SKILL_DIR="/Applications/QClaw.app/Contents/Resources/openclaw/config/skills/ky-order-agent-skill"
-TEMP_DIR="/tmp/ky-order-agent-skill-update"
-GITHUB_REPO="https://github.com/kydever/agent-skills/tree/main/ky-order-agent-skill"
+SKILL_DIR="/Applications/QClaw.app/Contents/Resources/openclaw/config/skills/ky-data-skill"
+TEMP_DIR="/tmp/ky-data-skill-update"
+GITHUB_REPO="https://github.com/kydever/agent-skills/tree/main/ky-data-skill"
 
 # ⚠️ 请将上面的 YOUR_USERNAME 替换为你的 GitHub 用户名
 
